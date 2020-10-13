@@ -56,3 +56,7 @@ https://tinypng.com/ <br>
 
 Post Image for Codepen <br>
 https://postimages.org/ <br>
+
+Code Playgrounds
+https://jsfiddle.net/
+codepen.io
